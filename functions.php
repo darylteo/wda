@@ -1,5 +1,5 @@
 <?php
-   function hello(){
-      echo 'Hello!';
+   function hello($name){
+      echo "Hello $name";
    }
 ?>

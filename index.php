@@ -1,4 +1,5 @@
 <?php
+   require ('functions.php');
    echo 'Hello World';
 ?>
 
@@ -13,5 +14,6 @@
       <script>
       alert('ello!');
       </script>
+      <p>I've written this</p>
    </body>
 </html>
